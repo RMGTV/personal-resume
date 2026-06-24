@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": "TESTONE",
+    "label": "INGENIERE",
+    "image": "/profile.png",
+    "email": "asdasd",
+    "phone": "asdasd",
+    "url": "masdnasd",
+    "summary": "",
+    "location": {
+      "city": "",
+      "countryCode": "GB",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      }
+    ],
+    "web": "masdnasd"
+  },
+  "work": [],
+  "education": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "puto amo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "highlights": [],
+      "keywords": [],
+      "url": ""
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "",
+    "template": "artistic"
+  },
+  "certificates": []
+}
