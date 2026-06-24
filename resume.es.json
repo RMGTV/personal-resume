@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "CABEZA",
+    "label": "BUKE",
+    "image": "/profile.png",
+    "email": "test",
+    "phone": "test",
+    "url": "test",
+    "summary": "tttttttttttttttttttttttttttttttttttttttttttttttttttt",
+    "location": {
+      "city": "",
+      "countryCode": "GB",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      }
+    ],
+    "web": "test"
+  },
+  "work": [
+    {
+      "name": "asd",
+      "position": "asd",
+      "url": "",
+      "startDate": "asd",
+      "endDate": "asd",
+      "summary": "asdsdasdasd",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "asdasd",
+      "url": "",
+      "area": "asdasd",
+      "studyType": "",
+      "startDate": "asdasd",
+      "endDate": "asdasd",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "asd"
+    },
+    {
+      "name": "d"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "highlights": [],
+      "keywords": [],
+      "url": ""
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "",
+    "template": "artistic"
+  },
+  "certificates": []
+}
